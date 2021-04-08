@@ -9,7 +9,7 @@
 ![difference-ML-Statistics](resources/differences_ML_Sta.png)
 
 统计学习理论是机器学习中非常多判别式模型的根基，比如神经网络、深度学习等等，它主要关注采样复杂度问题(sample complexity questions)。本仓库主要参考MIT 18.657 Mathematics of Machine Learning
-的[讲义](reference/MIT+Mathematical+in+ML.pdf)，在自学过程中进行总结和分享。
+的[讲义](reference/MIT+Mathematical+in+ML.pdf)，在学习过程中进行总结和分享。
 
 ## 二、参考资料
 [1] [MIT Course 18.657 Prof. Philippe Rigollet](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
